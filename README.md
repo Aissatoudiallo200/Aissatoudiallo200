@@ -2,7 +2,7 @@
 🔬 Étudiante ingénieure en E-Santé et dispositifs médicaux à l’ISEN Yncréa Méditerranée  <br>🤖 Intéressée par l’IA appliquée à la santé, le machine learning et les LLMs  <br>💻 Développement d’applications web full-stack (React, Node.js, API)  <br>📊 Analyse et traitement de données (Pandas, Scikit-learn, TensorFlow)  <br>🚀 Expérience en gestion de projet (méthodes Agile/Scrum)  <br>🎯 À la recherche d’un stage de 3 à 4 mois à partir de juin 2026  <br>📍 Toulon – Mobilité France entière  
 
 
-## 🌐 Socials:
+## 🌐 Contacts:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aissatou-diallod) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aissatou.diallo@isen.yncrea.fr) 
 
 # 💻 Tech Stack:
